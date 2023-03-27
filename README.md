@@ -7,4 +7,10 @@
 ## 5. SQL               
 ----
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/115601/screenshots/2832877/search_progress_animation.gif" width=200>
+  <br>
+
+</p>
+
 
