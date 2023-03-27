@@ -8,7 +8,7 @@
 ----
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/115601/screenshots/2832877/search_progress_animation.gif" width=200>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAyZjUxMTY3Y2IyNTJjYzAxMDA2YjBmODM5ODJhNWFmMDUwYjA3NSZjdD1z/XSmHWLpvdycR6xukzC/giphy.gif" width=200>
   <br>
 
 </p>
