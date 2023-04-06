@@ -15,7 +15,7 @@
 
 # Nmap is our Preferd Opensource Software
 
-``
+```
 nmap is a powerful and widely-used network exploration and security auditing tool. The -Pn, -sV, and -sC options are used to customize the scan and perform various types of tests.
 
 Here's a breakdown of what each option does:
@@ -28,7 +28,7 @@ Here's a breakdown of what each option does:
 
 By combining these options, nmap will perform a scan that attempts to identify the version of services running on the target hosts and look for vulnerabilities using a set of default scripts. This can be a useful way to quickly identify potential security issues on a network. However, it's important to note that nmap should be used ethically and with appropriate permissions, as scanning without authorization can be illegal.
 
-``
+```
 
 
 # a) RDP
