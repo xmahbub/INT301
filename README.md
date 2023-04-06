@@ -15,16 +15,16 @@
 
 # Nmap is our Preferd Opensource Software
 
-```
+
 nmap is a powerful and widely-used network exploration and security auditing tool. The -Pn, -sV, and -sC options are used to customize the scan and perform various types of tests.
 
 Here's a breakdown of what each option does:
 
--Pn (no ping): By default, nmap will use ping to determine if a host is up or not. This option disables ping probes and assumes that the host is up, allowing nmap to attempt a scan regardless of whether the host is responding to ping requests.
+- \-Pn (no ping): By default, nmap will use ping to determine if a host is up or not. This option disables ping probes and assumes that the host is up, allowing nmap to attempt a scan regardless of whether the host is responding to ping requests.
 
--sV (version detection): This option instructs nmap to attempt to determine the version of any services that are running on the scanned hosts. nmap will send a series of probes to each open port to try to identify the service, its version number, and any associated information that can be used to fingerprint the system.
+- \n-sV (version detection): This option instructs nmap to attempt to determine the version of any services that are running on the scanned hosts. nmap will send a series of probes to each open port to try to identify the service, its version number, and any associated information that can be used to fingerprint the system.
 
--sC (default script scan): This option tells nmap to run a set of default scripts against the target hosts. These scripts are designed to identify common vulnerabilities and security issues. The -sC option is a shorthand way to run a set of scripts that are commonly used for basic vulnerability assessment.
+- \n-sC (default script scan): This option tells nmap to run a set of default scripts against the target hosts. These scripts are designed to identify common vulnerabilities and security issues. The -sC option is a shorthand way to run a set of scripts that are commonly used for basic vulnerability assessment.
 
 By combining these options, nmap will perform a scan that attempts to identify the version of services running on the target hosts and look for vulnerabilities using a set of default scripts. This can be a useful way to quickly identify potential security issues on a network. However, it's important to note that nmap should be used ethically and with appropriate permissions, as scanning without authorization can be illegal.
 
@@ -37,7 +37,7 @@ By combining these options, nmap will perform a scan that attempts to identify t
 
 ```sh
 nmap -Pn -sV -sC <service-IP>
-```
+
 <p align="center">
   <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
   <br>
