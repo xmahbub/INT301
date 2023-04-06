@@ -55,6 +55,6 @@ sqlmap -u <SQL-service-URL> --banner --dbs
 | Service Name      | Ip              | Ports            |  Encryption     | Banner          | Netbios         |
 | :---------------: |:---------------:| :---------------:|:---------------:|:---------------:|:---------------:|
 | RDP               | 65.0.89.91      | 3389             |  SSL            | ms-wbt-server   | EC2AMAZ-6QTV5EA | 
-| FTP               |                 |                  |                 |                 |                 |
+| FTP               | 112.196.62.12   | 21               |  X              | Microsoft ftpd  |  X              |
 | SMTP              |                 |                  |                 |                 |                 |
-| SQL               |                 |                  |                 |                 |                 |
+| SQL               | 112.196.62.12   | 1433             |                 | Microsoft SQL Server 2012 SP4     |  LPU            |
