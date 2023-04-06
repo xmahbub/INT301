@@ -19,7 +19,7 @@
 
 </p>
 
-# Nmap is our Preferd Opensource Software
+# Nmap is our preferred Opensource Software
 
 
 nmap is a powerful and widely-used network exploration and security auditing tool. The -Pn, -sV, and -sC options are used to customize the scan and perform various types of tests.
