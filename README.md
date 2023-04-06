@@ -21,7 +21,7 @@
 nmap -p 3389 -sV -sC <RDP-service-IP>
 ```
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAyZjUxMTY3Y2IyNTJjYzAxMDA2YjBmODM5ODJhNWFmMDUwYjA3NSZjdD1z/XSmHWLpvdycR6xukzC/giphy.gif" width=100>
+  <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100>
   <br>
 
 </p>
