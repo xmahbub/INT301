@@ -28,7 +28,7 @@ Here's a breakdown of what each option does:
 
 By combining these options, nmap will perform a scan that attempts to identify the version of services running on the target hosts and look for vulnerabilities using a set of default scripts. This can be a useful way to quickly identify potential security issues on a network.
 
-```
+
 
 
 # a) RDP
@@ -37,7 +37,7 @@ By combining these options, nmap will perform a scan that attempts to identify t
 
 ```sh
 nmap -Pn -sV -sC <service-IP>
-
+```
 <p align="center">
   <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
   <br>
