@@ -52,4 +52,9 @@ nbtscan <NetBIOS-service-IP-range>
 ```sh
 sqlmap -u <SQL-service-URL> --banner --dbs
 ```
-
+| Service Name      | Ip              | Ports            |  Encryption     | Banner          | Netbios         |
+| :---------------: |:---------------:| :---------------:|:---------------:|:---------------:|:---------------:|
+| RDP               | 65.0.89.91      | 3389             |  SSL            | ms-wbt-server   | EC2AMAZ-6QTV5EA | 
+| FTP               |                 |                  |                 |                 |                 |
+| SMTP              |                 |                  |                 |                 |                 |
+| SQL               |                 |                  |                 |                 |                 |
