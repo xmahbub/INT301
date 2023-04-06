@@ -34,6 +34,12 @@ nmap -p 3389 -sV -sC <RDP-service-IP>
 ```sh
 nmap -p 21 -sV -sC <FTP-service-IP>
 ```
+<p align="center">
+  <img src="https://github.com/xmahbub/INT301/raw/master/src/2.png" width=100% height=100%>
+  <br>
+
+</p>
+
 
 # c) SMTP
 
