@@ -18,7 +18,7 @@
 ## To gather information about an RDP service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
 
 ```sh
-nmap -p 3389 -sV -sC <RDP-service-IP>
+nmap -Pn -sV -sC <service-IP>
 ```
 <p align="center">
   <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
@@ -32,7 +32,8 @@ nmap -p 3389 -sV -sC <RDP-service-IP>
 ## To gather information about an FTP service, we can use a tool called "Nmap" which we used earlier. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
 
 ```sh
-nmap -p 21 -sV -sC <FTP-service-IP>
+nmap -Pn -sV -sC <service-IP>
+
 ```
 <p align="center">
   <img src="https://github.com/xmahbub/INT301/raw/master/src/2.png" width=100% height=100%>
@@ -46,7 +47,8 @@ nmap -p 21 -sV -sC <FTP-service-IP>
 ## To gather information about an SMTP service, we can use a tool called "Netcat" which is a simple and powerful network tool. Netcat can help us to identify the banner information of the service. To use Netcat, we can run the following command:
 
 ```sh
-nc -nv <SMTP-service-IP> 25
+nmap -Pn -sV -sC <service-IP>
+
 ```
 <p align="center">
   <img src="https://github.com/xmahbub/INT301/raw/master/src/3%20smtp%20ftp.png" width=100% height=100%>
@@ -59,7 +61,8 @@ nc -nv <SMTP-service-IP> 25
 ## To gather information about a NetBIOS service, we can use a tool called "Nbtscan" which is a free and open-source NetBIOS scanner. Nbtscan can help us to identify IP addresses and NetBIOS names on a local area network. To use Nbtscan, we can run the following command:
 
 ```sh
-nbtscan <NetBIOS-service-IP-range>
+nmap -Pn -sV -sC <service-IP>
+
 ```
 <p align="center">
   <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
@@ -72,7 +75,8 @@ nbtscan <NetBIOS-service-IP-range>
 ## To gather information about a SQL service, we can use a tool called "Sqlmap" which is a free and open-source SQL injection tool. Sqlmap can help us to identify the database management system, tables, columns, and data. To use Sqlmap, we can run the following command:
 
 ```sh
-sqlmap -u <SQL-service-URL> --banner --dbs
+nmap -Pn -sV -sC <service-IP>
+
 ```
 <p align="center">
   <img src="https://github.com/xmahbub/INT301/raw/master/src/2.png" width=100% height=100%>
