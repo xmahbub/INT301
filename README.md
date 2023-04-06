@@ -20,7 +20,7 @@ nmap is a powerful and widely-used network exploration and security auditing too
 
 Here's a breakdown of what each option does:
 
-- \-Pn (no ping): By default, nmap will use ping to determine if a host is up or not. This option disables ping probes and assumes that the host is up, allowing nmap to attempt a scan regardless of whether the host is responding to ping requests.
+- -Pn (no ping): By default, nmap will use ping to determine if a host is up or not. This option disables ping probes and assumes that the host is up, allowing nmap to attempt a scan regardless of whether the host is responding to ping requests.
 
 - -sV (version detection): This option instructs nmap to attempt to determine the version of any services that are running on the scanned hosts. nmap will send a series of probes to each open port to try to identify the service, its version number, and any associated information that can be used to fingerprint the system.
 
