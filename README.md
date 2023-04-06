@@ -42,6 +42,11 @@ nmap -p 21 -sV -sC <FTP-service-IP>
 ```sh
 nc -nv <SMTP-service-IP> 25
 ```
+<p align="center">
+  <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
+  <br>
+
+</p>
 
 # d) NetBIOS
 
@@ -50,6 +55,11 @@ nc -nv <SMTP-service-IP> 25
 ```sh
 nbtscan <NetBIOS-service-IP-range>
 ```
+<p align="center">
+  <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
+  <br>
+
+</p>
 
 # e) SQL
 
@@ -58,6 +68,14 @@ nbtscan <NetBIOS-service-IP-range>
 ```sh
 sqlmap -u <SQL-service-URL> --banner --dbs
 ```
+<p align="center">
+  <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
+  <br>
+
+</p>
+
+# Overll Report
+
 | Service Name      | Ip              | Ports            |  Encryption     | Banner          | Netbios         |
 | :---------------: |:---------------:| :---------------:|:---------------:|:---------------:|:---------------:|
 | RDP               | 65.0.89.91      | 3389             |  SSL            | ms-wbt-server   | EC2AMAZ-6QTV5EA | 
