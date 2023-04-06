@@ -17,7 +17,9 @@
 
 ## To gather information about an RDP service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
 
-```nmap -p 3389 -sV -sC <RDP-service-IP>```
+```js
+nmap -p 3389 -sV -sC <RDP-service-IP>
+```
 
 # b) FTP
 
