@@ -57,4 +57,4 @@ sqlmap -u <SQL-service-URL> --banner --dbs
 | RDP               | 65.0.89.91      | 3389             |  SSL            | ms-wbt-server   | EC2AMAZ-6QTV5EA | 
 | FTP               | 112.196.62.12   | 21               |  X              | Microsoft ftpd  |  X              |
 | SMTP              |                 |                  |                 |                 |                 |
-| SQL               | 112.196.62.12   | 1433             | SSL2_RC4_128_WITH_MD5,SSL2_RC4_128_WITH_MD5         | Microsoft SQL Server 2012 SP4     |  LPU            |
+| SQL               | 112.196.62.12   | 1433             | SSL2_RC4_128_WITH_MD5, SSL2_RC4_128_WITH_MD5         | Microsoft SQL Server 2012 SP4     |  LPU            |
