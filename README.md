@@ -1,4 +1,4 @@
-<h3 align="center">INT 301</h3>
+<h1 align="center">INT 301</h1>
 <h3 align="center">MD Mahbub Hasan</h3>
 <h3 align="center">Reg: 11900179</h3>
 <h3 align="center">Roll: 40</h3>
