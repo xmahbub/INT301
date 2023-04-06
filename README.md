@@ -80,7 +80,7 @@ sqlmap -u <SQL-service-URL> --banner --dbs
 
 </p>
 
-# Overll Report
+# Overall Report
 
 | Service Name      | Ip              | Ports            |  Encryption     | Banner          | Netbios         |
 | :---------------: |:---------------:| :---------------:|:---------------:|:---------------:|:---------------:|
