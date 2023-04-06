@@ -29,7 +29,7 @@ nmap -Pn -sV -sC <service-IP>
 
 # b) FTP
 
-## To gather information about an RDP service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
+## To gather information about an FTP service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
 ```sh
 nmap -Pn -sV -sC <service-IP>
 
@@ -43,7 +43,7 @@ nmap -Pn -sV -sC <service-IP>
 
 # c) SMTP
 
-## To gather information about an RDP service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
+## To gather information about an SMTP service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
 ```sh
 nmap -Pn -sV -sC <service-IP>
 
@@ -56,7 +56,7 @@ nmap -Pn -sV -sC <service-IP>
 
 # d) NetBIOS
 
-## To gather information about an RDP service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
+## To gather information about an NetBIOS service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
 ```sh
 nmap -Pn -sV -sC <service-IP>
 
@@ -69,7 +69,7 @@ nmap -Pn -sV -sC <service-IP>
 
 # e) SQL
 
-## To gather information about an RDP service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
+## To gather information about an SQL service, we can use a tool called "Nmap" which is a free and open-source network scanner. Nmap can help us to identify open ports, service versions, and OS details. To use Nmap, we can run the following command:
 
 ```sh
 nmap -Pn -sV -sC <service-IP>
