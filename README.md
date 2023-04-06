@@ -75,7 +75,7 @@ nbtscan <NetBIOS-service-IP-range>
 sqlmap -u <SQL-service-URL> --banner --dbs
 ```
 <p align="center">
-  <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
+  <img src="https://github.com/xmahbub/INT301/raw/master/src/2.png" width=100% height=100%>
   <br>
 
 </p>
