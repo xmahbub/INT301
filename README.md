@@ -49,7 +49,7 @@ nmap -p 21 -sV -sC <FTP-service-IP>
 nc -nv <SMTP-service-IP> 25
 ```
 <p align="center">
-  <img src="https://github.com/xmahbub/INT301/raw/master/src/1rdp.png" width=100% height=100%>
+  <img src="https://github.com/xmahbub/INT301/raw/master/src/3%20smtp%20ftp.png" width=100% height=100%>
   <br>
 
 </p>
